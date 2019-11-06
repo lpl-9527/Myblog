@@ -1,0 +1,43 @@
+.aboutcon{
+	color:#696969;
+}
+span input{
+	height: 20px;
+}
+.about_c{
+	padding:10px 0 0 10px;
+	color:gray;
+	line-height:26px;
+	font-size: large;
+	font-weight: bolder;
+}
+.about_c span{
+	font-size:medium;
+	color:#19A566;
+	text-align:left;
+}
+.about_c a{
+	border:3px;
+	border-style:double;
+	line-height:50px;
+	color:maroon;
+	text-align:center;
+	font-size: x-large;
+}
+.about h2{
+	font-size:22px;
+	font-family: 'Architects Daughter', cursive;
+	margin-bottom:20px;
+}
+.about{
+	width:740px;
+	overflow: hidden;
+	background: url(../images/r_line.jpg) repeat-y right;
+	line-height:22px;
+}
+.sig{
+	font-size:medium;
+	color:purple;
+	font-weight: bolder;
+	text-align: center;
+}

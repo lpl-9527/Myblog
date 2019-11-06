@@ -1,0 +1,28 @@
+.left{
+	padding-left: 0px;
+	padding-top:20px;
+	height:auto;
+	margin-right:0px;
+	padding-right:0px;
+	width: 600px;
+	border-right-style: dotted;
+		float: left;
+}
+.right{
+	margin-left:0px;
+	padding-left: 0px;
+	margin-right:0px;
+	padding-right: 0px;
+	padding-top:20px;
+	width: 450px;
+		float: left;
+}
+td{
+	text-align: center;
+	font-size: medium;
+}
+.title{
+	font-size: x-large;
+	color: orange;
+	text-align: center;
+}

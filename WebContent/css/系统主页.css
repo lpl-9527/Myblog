@@ -1,0 +1,41 @@
+p{
+	font-size:x-large;
+	color: blue;
+	text-align: center;
+}
+body{
+	padding: 0;
+	background: #ccffcc;
+	padding-left: 50px;
+}
+.left{
+	width:1000px;
+	float: left;
+	margin-left: 50px;
+}
+.right{
+	margin:0px;
+	padding:0px;
+	float: right;
+}
+.articlebox{
+	width: 600px;
+	height: 150px;
+	border-bottom-style: dotted;
+	padding-top:20px;
+	padding-left: 50px;
+}
+img{
+	width: 300px;
+	height: 100px;	
+	float: right;
+}
+.title{
+	font-size: large;
+	font-family: sans-serif;
+}
+.sort{
+	font-size: small;
+	color: red;
+	font-weight: bolder;
+}
